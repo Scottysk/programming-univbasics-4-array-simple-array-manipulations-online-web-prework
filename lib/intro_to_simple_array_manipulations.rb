@@ -13,6 +13,7 @@ def using_pop(array)
   array.pop
 end
 
-def shift_with_args(array, element)
+def shift_with_args(array)
   ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
   array.shift
+end
