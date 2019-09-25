@@ -4,6 +4,7 @@ def using_push(array, element)
 end
 
 def using_unshift(array, element)
-bouroughs_in_nyc = ["Brooklyn", "Queens", "Manhattan", "Bronx"]
+["Brooklyn", "Queens", "Manhattan", "Bronx"]
   array.unshift("Staten Island")
 end
+
