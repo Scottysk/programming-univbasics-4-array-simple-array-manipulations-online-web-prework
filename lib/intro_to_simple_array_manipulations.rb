@@ -30,6 +30,6 @@ end
 
 def using_concat(array, element)
  ["raindrops on roses", "whiskers on kittens"].concat(["sports cars", "flatiron school"])
- ["raindrops on roses", "whiskers on kittens", "sports cars"]
+ ["raindrops on roses", "whiskers on kittens", "sports cars", "flatiron school"]
  array.concat(["flatiron school"])
  end
