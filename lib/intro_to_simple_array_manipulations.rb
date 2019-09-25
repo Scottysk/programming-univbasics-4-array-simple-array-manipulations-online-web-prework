@@ -28,6 +28,7 @@ def shift_with_args(array)
   array.shift(2)
 end
 
-def using_concat
- ["raindrops on roses", "whiskers on kittens"].concat["sports cars", "flatiron school"]
+def using_concat(array)
+ ["raindrops on roses", "whiskers on kittens"]
+ array.concat["sports cars", "flatiron school"]
  end
