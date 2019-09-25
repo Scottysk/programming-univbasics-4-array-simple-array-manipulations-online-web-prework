@@ -29,3 +29,5 @@ def shift_with_args(array)
 end
 
 def using_concat
+  ["raindrops on roses", "whiskers on kittens"]
+  
