@@ -48,3 +48,7 @@ def using_concat(array, element)
    ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
    array.flatten
  end
+ 
+ def using_delete
+   
+ end
