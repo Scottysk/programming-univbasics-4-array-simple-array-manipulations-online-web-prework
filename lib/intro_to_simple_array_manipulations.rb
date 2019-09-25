@@ -33,3 +33,7 @@ def using_concat(array, element)
  ["raindrops on roses", "whiskers on kittens", "sports cars", "flatiron school"]
  array.concat(["sports cars", "flatiron school"])
  end
+ 
+ using_insert(array, element)
+ 
+ 
