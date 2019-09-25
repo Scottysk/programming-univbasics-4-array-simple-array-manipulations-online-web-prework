@@ -44,7 +44,7 @@ def using_concat(array, element)
  array.uniq
  end
  
- def using_unflatten(array)
+ def using_flatten(array)
    ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
    array.flatten
  end
