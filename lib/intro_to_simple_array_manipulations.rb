@@ -15,5 +15,5 @@ end
 
 def pop_with_args(array)
   ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
-  array.shift
+  array.pop
 end
