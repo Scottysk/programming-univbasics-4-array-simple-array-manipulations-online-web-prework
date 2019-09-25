@@ -36,6 +36,6 @@ def using_concat(array, element)
  
  using_insert(array, element)
  ["Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"]
- 
+ array.insert("Python")
  end
  
