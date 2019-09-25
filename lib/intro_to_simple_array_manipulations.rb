@@ -43,3 +43,6 @@ def using_concat(array, element)
  ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
  array.uniq
  end
+ 
+ def using_unflatten
+   
