@@ -49,6 +49,7 @@ def using_concat(array, element)
    array.flatten
  end
  
- def using_delete
+ def using_delete(array, element)
    ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
+   
  end
