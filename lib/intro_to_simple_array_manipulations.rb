@@ -12,3 +12,4 @@ def using_pop(array)
   ["Africa", "Asia", "Europe", "North America", "South America", "Oceania", "Antarctica"]
   array.pop
 end
+
