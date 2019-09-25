@@ -45,4 +45,6 @@ def using_concat(array, element)
  end
  
  def using_unflatten
+   ["Saxophone", ["Piano", "Trumpet"], "Violin", "Drums", "Flute"]
    
+ end
