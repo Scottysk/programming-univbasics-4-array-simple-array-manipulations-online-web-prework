@@ -51,5 +51,5 @@ def using_concat(array, element)
  
  def using_delete(array, element)
    ["Josh", "Steven", "Sophie", "Steven", "Amanda", "Steven"]
-   
+   array.delete("Steven")
  end
