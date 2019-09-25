@@ -29,5 +29,5 @@ def shift_with_args(array)
 end
 
 def using_concat
-  ["raindrops on roses", "whiskers on kittens"]
-  ["sports cars", "flatiron school"]
+  my_favorite_things = ["raindrops on roses", "whiskers on kittens"]
+  all_my_faves = ["sports cars", "flatiron school"]
