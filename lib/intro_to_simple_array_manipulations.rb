@@ -14,6 +14,6 @@ def using_pop(array)
 end
 
 def pop_with_args(array)
-  ["Blue Bell Creameries", "Ben & Jerry's", "Baskin Robbins", "Braum's", "Breyer's"]
+  ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
   array.pop
 end
