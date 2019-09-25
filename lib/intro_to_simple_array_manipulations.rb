@@ -15,5 +15,5 @@ end
 
 def pop_with_args(array)
   ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
-  shiba_inu = array.pop
+  pop_with_args.ruby
 end
