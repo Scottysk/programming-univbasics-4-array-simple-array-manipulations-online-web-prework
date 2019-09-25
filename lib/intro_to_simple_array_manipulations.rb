@@ -3,4 +3,6 @@ def using_push(array, element)
   array.push("violet")
 end
 
-def using_unshift
+def using_unshift(array, element)
+["Brooklyn", "Queens", "Manhattan", "Bronx"]
+array.unshift
