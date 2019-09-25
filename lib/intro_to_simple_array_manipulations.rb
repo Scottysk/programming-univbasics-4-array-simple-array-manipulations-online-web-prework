@@ -55,4 +55,6 @@ def using_concat(array, element)
  end
  
  def using_delete_at
+   ["Johnny 5", "R2D2", "Robocop"]
    
+ end
