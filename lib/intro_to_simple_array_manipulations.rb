@@ -41,5 +41,5 @@ def using_concat(array, element)
  
  def using_uniq(array)
  ["Pixie", "Bob", "Mohawk", "Crew Cut", "Linka", "Wheeler", "Bob"]
- 
+ array.uniq
  end
